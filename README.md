@@ -8,22 +8,27 @@
  
 ---
 
-<br />
 <img align="right" alt="GIF" src="./01.png" width="400"/>
 
 ## Welcome To My GitHub! 🧐
 
+
+
 ### My Self-Introduction 🏫
 
-My name is **half(sum)mer ( 半夏 )**.I am a student majoring in Microelectronics Science and Engineering
+My name is **half(sum)mer ( 半夏 )**.I am a student majoring in Microelectronics
 
-at**Dongguan University of Technology(东莞理工学院 DGUT)**
+Science and Engineering at **Dongguan University of Technology(东莞理工学院**
 
-I'm 20-year-old now(2025), and I come from Meizhou in Guangdong province of China. I am particularly
+**DGUT)**
 
-interested in embedded systems and mainly study C language.  Although I may not be as proficient as 
+I'm 20-year-old now(2025), and I come from Meizhou in Guangdong province
 
-some highly skilled individuals yet, I will continue to study hard with passion.
+of China. I am particularly interested in embedded systems and mainly study C
+
+language.  Although I may not be as proficient as some highly skilled individuals
+
+yet, I will continue to study hard with passion.
 
 **On the right is a picture of the collection 😋**
 
