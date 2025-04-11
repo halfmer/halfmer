@@ -1,14 +1,14 @@
 # 自我介绍 (Self-Introduction)
 
 <div align="center">
- <h1>About Me</h1> 
+ <h1>🫲About Me 🫱</h1> 
 </div>
 
 ---
 
-## Welcome To My GitHub!
+## Welcome To My GitHub! 🧐
 
-### My Self-Introduction
+### My Self-Introduction 🏫
 
 My name is **halfmer ( 半夏 )**.I am a student majoring in Microelectronics Science and Engineering at
 
@@ -24,11 +24,11 @@ with passion.
 
 ---
 
-### My Social Account
+### My Social Account :yum:
 
 - :tv:**BiliBili**: [半夏へ](https://space.bilibili.com/399903838)
 - :penguin:**QQ**: 2949766309
 
-### My Email
+### My Email :mailbox: 
 
 - QQ Mail: 2949766309@QQ.com
