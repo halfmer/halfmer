@@ -8,7 +8,7 @@
  
 ---
 
-<img align="right" alt="GIF" src="./01.png" width="400"/>
+<img align="right" alt="GIF" src="./01.png" width="350"/>
 
 
 ## Welcome To My GitHub! 🧐
