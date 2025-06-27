@@ -25,7 +25,7 @@ I'm 20-year-old now(2025), and I come from Meizhou in Guangdong province of Chin
 
 ## My GitHub Stats 😩
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfmer)](https://github.com/halfmer/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halfmer)](https://github.com/halfmer/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfmer&layout=compact" height="192px"></a>
 
 ---
 
