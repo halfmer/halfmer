@@ -19,7 +19,7 @@ My name is ***half(sum)mer*** (**半夏**).I am a student majoring in **Microele
 
 I'm 20-year-old now(2025), and I come from Meizhou in Guangdong province of China. I am particularly interested in embedded systems and mainly study C language.  Although I may not be as proficient as some highly skilled individuals yet, I will continue to study hard with passion.
 
-***Here is a picture of the collection*** 😋
+***Here is a picture of my collection*** 😋
 
 ---
 
